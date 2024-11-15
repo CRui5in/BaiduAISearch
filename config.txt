@@ -1,0 +1,10 @@
+# 模型、SDK配置，API_KEY获取：https://aistudio.baidu.com/account/accessToken
+LLM_MODEL=ernie-3.5-8k
+OPENAI_API_KEY=4a48001a20e5d376edf8a31c8c0e54939b6e5296
+OPENAI_BASE_URL=https://aistudio.baidu.com/llm/lmapi/v3
+# 搜索配置
+NUM_SEARCH=20
+SEARCH_TIME_LIMIT=3
+TOTAL_TIMEOUT=6
+MAX_CONTENT=1000
+MAX_TOKENS=2000
